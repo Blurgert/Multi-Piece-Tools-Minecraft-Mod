@@ -1,0 +1,205 @@
+{
+  "mod_elements": [
+    {
+      "name": "IronHandle",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_handle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/IronHandleItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/iron_handle.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneHandle",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/stone_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/StoneHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GoldHandle",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_handle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/GoldHandleItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/gold_handle.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystHandle",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/amethyst_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/AmethystHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DiamondHandle",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/diamond_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/DiamondHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldHandle",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_handle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/EmeraldHandleItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/emerald_handle.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperHandle",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_handle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/CopperHandleItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/copper_handle.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteHandle",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/netherite_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/NetheriteHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "IronHandleRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/iron_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneHandleRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/stone_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldHandleRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/gold_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystHandleRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/amethyst_handle_recipe.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.multi_piece_tools.gold_handle": "Gold Tool Handle",
+      "item.multi_piece_tools.stone_handle": "Stone Tool Handle",
+      "item.multi_piece_tools.iron_handle": "Iron Tool Handle",
+      "item.multi_piece_tools.copper_handle": "Copper Tool Handle",
+      "item.multi_piece_tools.emerald_handle": "Emerald Tool Handle",
+      "item.multi_piece_tools.netherite_handle": "Netherite Tool Handle",
+      "item.multi_piece_tools.amethyst_handle": "Amethyst Tool Handle",
+      "item.multi_piece_tools.diamond_handle": "Diamond Tool Handle"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "multi_piece_tools",
+    "modName": "Multi Piece Tools",
+    "version": "1.0.0",
+    "author": "miles, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.multipiecetools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}
