@@ -163,20 +163,1416 @@
           "src/main/resources/data/multi_piece_tools/recipes/amethyst_handle_recipe.json"
         ]
       }
+    },
+    {
+      "name": "DiamondHandleRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/diamond_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldHandleRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/emerald_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperHandleRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/copper_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteHandleRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/netherite_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IronPickaxeHead",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_pickaxe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/IronPickaxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/iron_pickaxe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "StonePickaxeHead",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pickaxe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/StonePickaxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/stone_pickaxe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldPickaxeHead",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_pickaxe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/GoldPickaxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/gold_pickaxe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystPickaxeHead",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_pickaxe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/AmethystPickaxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/amethyst_pickaxe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondPickaxeHead",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_pickaxe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/DiamondPickaxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/diamond_pickaxe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldPickaxeHead",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_pickaxe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/emerald_pickaxe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/EmeraldPickaxeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CopperPickaxeHead",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/copper_pickaxe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/CopperPickaxeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NetheritePickaxeHead",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_pickaxe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/netherite_pickaxe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/NetheritePickaxeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "IronPickaxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_pickaxe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/iron_pickaxe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "StonePickaxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pickaxe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/stone_pickaxe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldPickaxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_pickaxe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/gold_pickaxe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystPickaxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_pickaxe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/amethyst_pickaxe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondPickaxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_pickaxe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/diamond_pickaxe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldPickaxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_pickaxe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/emerald_pickaxe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperPickaxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/copper_pickaxe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheritePickaxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_pickaxe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/netherite_pickaxe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IronAxeHead",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_axe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/iron_axe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/IronAxeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "StoneAxeHead",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_axe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/stone_axe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/StoneAxeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GoldAxeHead",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_axe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/GoldAxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/gold_axe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystAxeHead",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_axe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/AmethystAxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/amethyst_axe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondAxeHead",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_axe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/diamond_axe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/DiamondAxeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldAxeHead",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_axe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/EmeraldAxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/emerald_axe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperAxeHead",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/CopperAxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/copper_axe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteAxeHead",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_axe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/NetheriteAxeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/netherite_axe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "IronAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/iron_axe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/stone_axe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/gold_axe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/amethyst_axe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/diamond_axe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/emerald_axe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/copper_axe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteAxeHeadRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_axe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/netherite_axe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IronShovelHead",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_shovel_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/iron_shovel_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/IronShovelHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "StoneShovelHead",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_shovel_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/stone_shovel_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/StoneShovelHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GoldShovelHead",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_shovel_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/GoldShovelHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/gold_shovel_head.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystShovelHead",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_shovel_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/amethyst_shovel_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/AmethystShovelHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DiamondShovelHead",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_shovel_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/diamond_shovel_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/DiamondShovelHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldShovelHead",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_shovel_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/emerald_shovel_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/EmeraldShovelHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CopperShovelHead",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/CopperShovelHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/copper_shovel_head.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteShovelHead",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_shovel_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/netherite_shovel_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/NetheriteShovelHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "IronShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/iron_shovel_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/stone_shovel_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/gold_shovel_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/amethyst_shovel_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/diamond_shovel_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/emerald_shovel_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/copper_shovel_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteShovelHeadRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_shovel_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/netherite_shovel_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IronHoeHead",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_hoe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/iron_hoe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/IronHoeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "StoneHoeHead",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hoe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/StoneHoeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/stone_hoe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldHoeHead",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_hoe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/gold_hoe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/GoldHoeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AmethystHoeHead",
+      "type": "item",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_hoe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/amethyst_hoe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/AmethystHoeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DiamondHoeHead",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_hoe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/DiamondHoeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/diamond_hoe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldHoeHead",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_hoe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/EmeraldHoeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/emerald_hoe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperHoeHead",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_head",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/CopperHoeHeadItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/copper_hoe_head.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteHoeHead",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_hoe_head",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/netherite_hoe_head.json",
+          "src/main/java/net/mcreator/multipiecetools/item/NetheriteHoeHeadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "IronHoeHeadRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_hoe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/iron_hoe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneHoeHeadRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hoe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/stone_hoe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldHoeHeadRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_hoe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/gold_hoe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystHoeHeadRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_hoe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/amethyst_hoe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondHoeHeadRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_hoe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/diamond_hoe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldHoeHeadRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_hoe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/emerald_hoe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperHoeHeadRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/copper_hoe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteHoeHeadRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_hoe_head_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/netherite_hoe_head_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IronSwordBlade",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/IronSwordBladeItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/iron_sword_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneSwordBlade",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/StoneSwordBladeItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/stone_sword_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldSwordBlade",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/GoldSwordBladeItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/gold_sword_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystSwordBlade",
+      "type": "item",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/amethyst_sword_blade.json",
+          "src/main/java/net/mcreator/multipiecetools/item/AmethystSwordBladeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DiamondSwordBlade",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/DiamondSwordBladeItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/diamond_sword_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldSwordBlade",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/EmeraldSwordBladeItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/emerald_sword_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperSwordBlade",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/CopperSwordBladeItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/copper_sword_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteSwordBlade",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_sword_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/NetheriteSwordBladeItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/netherite_sword_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "IronSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/iron_sword_blade_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/stone_sword_blade_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/gold_sword_blade_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/amethyst_sword_blade_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/diamond_sword_blade_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/emerald_sword_blade_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/copper_sword_blade_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteSwordBladeRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_sword_blade_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/netherite_sword_blade_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IronSwordHandle",
+      "type": "item",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword_handle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/IronSwordHandleItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/iron_sword_handle.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneSwordHandle",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword_handle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/StoneSwordHandleItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/stone_sword_handle.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldSwordHandle",
+      "type": "item",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_sword_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/gold_sword_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/GoldSwordHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AmethystSwordHandle",
+      "type": "item",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_sword_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/amethyst_sword_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/AmethystSwordHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DiamondSwordHandle",
+      "type": "item",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/diamond_sword_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/DiamondSwordHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldSwordHandle",
+      "type": "item",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_sword_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/emerald_sword_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/EmeraldSwordHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CopperSwordHandle",
+      "type": "item",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword_handle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multi_piece_tools/models/item/copper_sword_handle.json",
+          "src/main/java/net/mcreator/multipiecetools/item/CopperSwordHandleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteSwordHandle",
+      "type": "item",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_sword_handle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/multipiecetools/item/NetheriteSwordHandleItem.java",
+          "src/main/resources/assets/multi_piece_tools/models/item/netherite_sword_handle.json"
+        ]
+      }
+    },
+    {
+      "name": "IronSwordHandleRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_sword_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/iron_sword_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "StoneSwordHandleRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/stone_sword_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldSwordHandleRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_sword_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/gold_sword_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystSwordHandleRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_sword_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/amethyst_sword_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondSwordHandleRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_sword_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/diamond_sword_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldSwordHandleRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_sword_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/emerald_sword_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperSwordHandleRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/copper_sword_handle_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteSwordHandleRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_sword_handle_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multi_piece_tools/recipes/netherite_sword_handle_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.multi_piece_tools.gold_handle": "Gold Tool Handle",
-      "item.multi_piece_tools.stone_handle": "Stone Tool Handle",
-      "item.multi_piece_tools.iron_handle": "Iron Tool Handle",
+      "item.multi_piece_tools.copper_hoe_head": "Copper Hoe Head",
+      "item.multi_piece_tools.gold_axe_head": "Golden Axe Head",
+      "item.multi_piece_tools.iron_axe_head": "Iron Axe Head",
+      "item.multi_piece_tools.diamond_axe_head": "Diamond Axe Head",
+      "item.multi_piece_tools.stone_shovel_head": "Stone Shovel Head",
+      "item.multi_piece_tools.amethyst_hoe_head": "Amethyst Hoe Head",
+      "item.multi_piece_tools.netherite_sword_blade": "Netherite Sword Blade",
+      "item.multi_piece_tools.stone_sword_blade": "Stone Sword Blade",
+      "item.multi_piece_tools.netherite_shovel_head": "Netherite Shovel Head",
+      "item.multi_piece_tools.iron_pickaxe_head": "Iron Pickaxe Head",
+      "item.multi_piece_tools.diamond_sword_blade": "Diamond Sword Blade",
+      "item.multi_piece_tools.netherite_pickaxe_head": "Netherite Pickaxe Head",
       "item.multi_piece_tools.copper_handle": "Copper Tool Handle",
+      "item.multi_piece_tools.iron_shovel_head": "Iron Shovel Head",
+      "item.multi_piece_tools.netherite_sword_handle": "Netherite Sword Handle",
+      "item.multi_piece_tools.diamond_pickaxe_head": "Diamond Pickaxe Head",
+      "item.multi_piece_tools.amethyst_shovel_head": "Amethyst Shovel Head",
+      "item.multi_piece_tools.copper_sword_blade": "Copper Sword Blade",
+      "item.multi_piece_tools.diamond_hoe_head": "Diamond Hoe Head",
+      "item.multi_piece_tools.stone_sword_handle": "Stone Sword Handle",
+      "item.multi_piece_tools.iron_sword_handle": "Iron Sword Handle",
       "item.multi_piece_tools.emerald_handle": "Emerald Tool Handle",
       "item.multi_piece_tools.netherite_handle": "Netherite Tool Handle",
+      "item.multi_piece_tools.emerald_shovel_head": "Emerald Shovel Head",
+      "item.multi_piece_tools.amethyst_sword_handle": "Amethyst Sword Handle",
+      "item.multi_piece_tools.iron_handle": "Iron Tool Handle",
+      "item.multi_piece_tools.copper_axe_head": "Copper Axe Head",
+      "item.multi_piece_tools.emerald_sword_blade": "Emerald Sword Blade",
+      "item.multi_piece_tools.diamond_handle": "Diamond Tool Handle",
+      "item.multi_piece_tools.iron_hoe_head": "Iron Hoe Head",
+      "item.multi_piece_tools.gold_hoe_head": "Golden Hoe Head",
+      "item.multi_piece_tools.netherite_hoe_head": "Netherite Hoe Head",
+      "item.multi_piece_tools.gold_shovel_head": "Golden Shovel Head",
       "item.multi_piece_tools.amethyst_handle": "Amethyst Tool Handle",
-      "item.multi_piece_tools.diamond_handle": "Diamond Tool Handle"
+      "item.multi_piece_tools.stone_hoe_head": "Stone Hoe Head",
+      "item.multi_piece_tools.stone_pickaxe_head": "Stone Pickaxe Head",
+      "item.multi_piece_tools.copper_pickaxe_head": "Copper Pickaxe Head",
+      "item.multi_piece_tools.emerald_sword_handle": "Emerald Sword Handle",
+      "item.multi_piece_tools.copper_shovel_head": "Copper Shovel Head",
+      "item.multi_piece_tools.gold_sword_handle": "Golden Sword Handle",
+      "item.multi_piece_tools.gold_handle": "Golden Tool Handle",
+      "item.multi_piece_tools.stone_handle": "Stone Tool Handle",
+      "item.multi_piece_tools.emerald_axe_head": "Emerald Axe Head",
+      "item.multi_piece_tools.emerald_hoe_head": "Emerald Hoe Head",
+      "item.multi_piece_tools.iron_sword_blade": "Iron Sword Blade",
+      "item.multi_piece_tools.diamond_shovel_head": "Diamond Shovel Head",
+      "item.multi_piece_tools.gold_sword_blade": "Golden Sword Blade",
+      "item.multi_piece_tools.amethyst_sword_blade": "Amethyst Sword Blade",
+      "item.multi_piece_tools.emerald_pickaxe_head": "Emerald Pickaxe Head",
+      "item.multi_piece_tools.diamond_sword_handle": "Diamond Sword Handle",
+      "item.multi_piece_tools.copper_sword_handle": "Copper Sword Handle",
+      "item.multi_piece_tools.gold_pickaxe_head": "Golden Pickaxe Head",
+      "item.multi_piece_tools.amethyst_pickaxe_head": "Amethyst Pickaxe Head",
+      "item.multi_piece_tools.amethyst_axe_head": "Amethyst Axe Head",
+      "item.multi_piece_tools.netherite_axe_head": "Netherite Axe Head",
+      "item.multi_piece_tools.stone_axe_head": "Stone Axe Head"
     }
   },
   "foldersRoot": {

@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "goldenhandle",
+    "texture": "amethystswordhead",
     "customModelName": "Normal",
-    "name": "Golden Tool Handle",
+    "name": "Amethyst Sword Blade",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"

@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "goldenhandle",
+    "texture": "ironaxehead",
     "customModelName": "Normal",
-    "name": "Golden Tool Handle",
+    "name": "Iron Axe Head",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"

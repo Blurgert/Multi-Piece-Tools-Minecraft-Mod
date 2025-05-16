@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "goldenhandle",
+    "texture": "amethystshovelhead",
     "customModelName": "Normal",
-    "name": "Golden Tool Handle",
+    "name": "Amethyst Shovel Head",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"

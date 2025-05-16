@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "goldenhandle",
+    "texture": "goldenhoehead",
     "customModelName": "Normal",
-    "name": "Golden Tool Handle",
+    "name": "Golden Hoe Head",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"

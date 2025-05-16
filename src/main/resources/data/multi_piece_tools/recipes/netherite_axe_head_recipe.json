@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:diamond_axe_head"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "multi_piece_tools:netherite_axe_head"
+  }
+}

@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "goldenhandle",
+    "texture": "netheriteswordhead",
     "customModelName": "Normal",
-    "name": "Golden Tool Handle",
+    "name": "Netherite Sword Blade",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"

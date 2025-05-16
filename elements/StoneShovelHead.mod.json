@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "goldenhandle",
+    "texture": "stoneshovelhead",
     "customModelName": "Normal",
-    "name": "Golden Tool Handle",
+    "name": "Stone Shovel Head",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"

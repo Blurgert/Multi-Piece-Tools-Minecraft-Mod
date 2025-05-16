@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:diamond_pickaxe_head"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "multi_piece_tools:netherite_pickaxe_head"
+  }
+}

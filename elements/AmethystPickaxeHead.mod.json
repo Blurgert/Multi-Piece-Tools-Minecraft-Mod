@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "goldenhandle",
+    "texture": "amethystpickaxehead",
     "customModelName": "Normal",
-    "name": "Golden Tool Handle",
+    "name": "Amethyst Pickaxe Head",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"

@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "goldenhandle",
+    "texture": "goldenswordhead",
     "customModelName": "Normal",
-    "name": "Golden Tool Handle",
+    "name": "Golden Sword Blade",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"
