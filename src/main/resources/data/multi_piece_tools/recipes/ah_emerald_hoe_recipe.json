@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:amethyst_handle"
+  },
+  "addition": {
+    "item": "multi_piece_tools:emerald_hoe_head"
+  },
+  "result": {
+    "item": "multi_piece_tools:ah_emerald_hoe"
+  }
+}

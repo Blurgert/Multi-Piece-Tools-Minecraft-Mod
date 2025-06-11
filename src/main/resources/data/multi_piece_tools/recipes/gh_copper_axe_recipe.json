@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:gold_handle"
+  },
+  "addition": {
+    "item": "multi_piece_tools:copper_axe_head"
+  },
+  "result": {
+    "item": "multi_piece_tools:gh_copper_axe"
+  }
+}

@@ -12,9 +12,6 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.GOLD_INGOT"
-      },
-      {
         "value": ""
       },
       {
@@ -27,7 +24,7 @@
         "value": "Items.GOLD_INGOT"
       },
       {
-        "value": ""
+        "value": "Items.GOLD_INGOT"
       },
       {
         "value": "Items.GOLD_INGOT"
@@ -37,6 +34,9 @@
       },
       {
         "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": ""
       }
     ],
     "recipeReturnStack": {

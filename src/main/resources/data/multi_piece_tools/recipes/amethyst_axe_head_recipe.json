@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "01",
-    "2 "
+    "0 ",
+    "23"
   ],
   "key": {
     "0": {
       "item": "minecraft:amethyst_shard"
     },
-    "1": {
+    "2": {
       "item": "minecraft:amethyst_shard"
     },
-    "2": {
+    "3": {
       "item": "minecraft:amethyst_shard"
     }
   },

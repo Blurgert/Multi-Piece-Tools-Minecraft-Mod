@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:diamond_sword_handle"
+  },
+  "addition": {
+    "item": "multi_piece_tools:iron_sword_blade"
+  },
+  "result": {
+    "item": "multi_piece_tools:dh_iron_sword"
+  }
+}

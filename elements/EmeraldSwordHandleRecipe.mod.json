@@ -12,9 +12,6 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.EMERALD"
-      },
-      {
         "value": ""
       },
       {
@@ -27,7 +24,7 @@
         "value": "Items.EMERALD"
       },
       {
-        "value": ""
+        "value": "Items.EMERALD"
       },
       {
         "value": "Items.EMERALD"
@@ -37,6 +34,9 @@
       },
       {
         "value": "Items.EMERALD"
+      },
+      {
+        "value": ""
       }
     ],
     "recipeReturnStack": {

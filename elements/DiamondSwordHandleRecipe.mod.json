@@ -12,9 +12,6 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.DIAMOND"
-      },
-      {
         "value": ""
       },
       {
@@ -27,7 +24,7 @@
         "value": "Items.DIAMOND"
       },
       {
-        "value": ""
+        "value": "Items.DIAMOND"
       },
       {
         "value": "Items.DIAMOND"
@@ -37,6 +34,9 @@
       },
       {
         "value": "Items.DIAMOND"
+      },
+      {
+        "value": ""
       }
     ],
     "recipeReturnStack": {

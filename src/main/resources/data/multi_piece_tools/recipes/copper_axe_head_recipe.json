@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "01",
-    "2 "
+    "0 ",
+    "23"
   ],
   "key": {
     "0": {
       "item": "minecraft:copper_ingot"
     },
-    "1": {
+    "2": {
       "item": "minecraft:copper_ingot"
     },
-    "2": {
+    "3": {
       "item": "minecraft:copper_ingot"
     }
   },

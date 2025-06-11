@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:emerald_handle"
+  },
+  "addition": {
+    "item": "multi_piece_tools:iron_pickaxe_head"
+  },
+  "result": {
+    "item": "multi_piece_tools:eh_iron_pickaxe"
+  }
+}

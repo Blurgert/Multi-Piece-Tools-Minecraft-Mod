@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:netherite_handle"
+  },
+  "addition": {
+    "item": "multi_piece_tools:gold_shovel_head"
+  },
+  "result": {
+    "item": "multi_piece_tools:nh_golden_shovel"
+  }
+}

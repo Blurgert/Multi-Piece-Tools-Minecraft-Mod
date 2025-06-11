@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:emerald_handle"
+  },
+  "addition": {
+    "item": "multi_piece_tools:gold_hoe_head"
+  },
+  "result": {
+    "item": "minecraft:granite_stairs"
+  }
+}

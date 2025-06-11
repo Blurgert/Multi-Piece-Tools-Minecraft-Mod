@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "multi_piece_tools:copper_sword_handle"
+  },
+  "addition": {
+    "item": "multi_piece_tools:emerald_sword_blade"
+  },
+  "result": {
+    "item": "multi_piece_tools:ch_emerald_sword"
+  }
+}
